@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and python games (and other fun stuff that can be done in python ^^)
 - 🌱 I’m currently learning React JS and improving my Javascript.
 - 💞️ I’m looking to collaborate on future projects.
-- 📫 How to reach me : on Github ^^ !
+- 📫 How to reach me : by e-mail or on Github ^^ !
 
 <!---
 mariam-hm/mariam-hm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
