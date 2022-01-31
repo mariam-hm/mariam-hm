@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariam !
-- 👀 I’m interested in web development and python games (and other fun stuff that can be done in python ^^)
-- 🌱 I’m currently learning React JS and improving my Javascript.
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning Node.js and trying to get better at coding challenges.
 - 💞️ I’m looking to collaborate on future projects.
 
 
