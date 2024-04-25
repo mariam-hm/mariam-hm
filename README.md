@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Mariam !
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Node.js and trying to get better at coding challenges.
-- 💞️ I’m looking to collaborate on future projects.
 
 
 <!---
